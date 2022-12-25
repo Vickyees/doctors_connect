@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32624330410",
+    "project_id": "doctors-connect-3c5f0",
+    "storage_bucket": "doctors-connect-3c5f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32624330410:android:19ef33b09d34b0a4fe32d3",
+        "android_client_info": {
+          "package_name": "com.example.doctors_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32624330410-va5cbe1qeneg3e1uq64s5ev4mampkh1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3euBk5WG5rdSUjPksRqNr7bJ18oB7v08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32624330410-va5cbe1qeneg3e1uq64s5ev4mampkh1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
